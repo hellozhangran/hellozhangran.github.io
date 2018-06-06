@@ -1,1 +1,7 @@
-<%- partial('_partial/archive', {pagination: 2, index: true}) %>
+<% var show_type = config.index_generator.show_type, show = 2; %>
+<% if(show_type == 0){ %>
+<% show = 3 %>
+<% }else if(show_type == 1){ %>
+<% show = 2 %>
+<% } %>
+<%- partial('_partial/archive', {pagination: show, index: true}) %>

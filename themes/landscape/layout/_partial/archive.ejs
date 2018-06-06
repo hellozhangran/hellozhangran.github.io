@@ -2,7 +2,9 @@
   <% page.posts.each(function(post){ %>
     <%- partial('article', {post: post, index: true}) %>
   <% }) %>
-<% } else { %>
+<% } else if(pagination == 3) { %>
+  <%- partial('caption') %>
+<%} else { %>
   <% var last; %>
   <% page.posts.each(function(post, i){ %>
     <% var year = post.date.year(); %>
