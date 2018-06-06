@@ -1,33 +1,12 @@
 ---
-title: Hello World
+title: Hello Hexo
 ---
 
-## Line 1
 
-### Create a new post
+## 开头
 
-``` bash
-$ hexo new "My New Post"
-```
+折腾完了jekyll后才发现hexo的好用 ~ 
 
-### Run server
+搭建博客不是重点，内容才是。最近打算写一些东西，原打算直接在issue写的，总不能是空pro吧，用hexo搭建简单的github pages ~
 
-``` bash
-$ hexo server
-```
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+希望后面别松懈 ~ 
