@@ -6,6 +6,8 @@
 
 * [写一个兼容AMD,CommandJS,全局变量的js库](https://75team.com/post/%E8%AF%91%E7%A5%9E%E9%A9%AC%E6%98%AFamd-commonjs-umd.html)
 
+* [WebGL 技术储备指南](http://taobaofed.org/blog/2015/12/21/webgl-handbook)
+
 
 思考题：
 
@@ -34,3 +36,4 @@ function Ran(){
 var ran = new Ran()
 //此刻ran得到的是什么 ？
 ```
+
