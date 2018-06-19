@@ -8,6 +8,7 @@
 
 * [WebGL 技术储备指南](http://taobaofed.org/blog/2015/12/21/webgl-handbook)
 
+* [CPU和GPU的区别](https://www.zhihu.com/question/19903344)
 
 思考题：
 
