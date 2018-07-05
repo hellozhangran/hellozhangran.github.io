@@ -9,7 +9,7 @@
 * [WebGL 技术储备指南](http://taobaofed.org/blog/2015/12/21/webgl-handbook)
 * [学习Shell系列文章](http://shuyi.me/2018/07/02/quick_start_of_shell/quick_start_of_shell_00_guide/)
 * [CPU和GPU的区别](https://www.zhihu.com/question/19903344)
-
+* [构建流式应用—RxJS详解](http://www.alloyteam.com/2016/12/learn-rxjs/)
 
 ### 认知类
 
@@ -45,3 +45,11 @@ var ran = new Ran()
 //此刻ran得到的是什么 ？
 ```
 
+大坑
+<a href="#" style="float:left; width: 500px">adfadsf</a>
+如果a标签内是float，且有宽度，那他的文本是没法选中的
+
+ "rxjs": "^6.2.1",
+    "rxjs-compat": "^6.2.1",
+
+    
