@@ -10,6 +10,8 @@
 * [学习Shell系列文章](http://shuyi.me/2018/07/02/quick_start_of_shell/quick_start_of_shell_00_guide/)
 * [CPU和GPU的区别](https://www.zhihu.com/question/19903344)
 * [构建流式应用—RxJS详解](http://www.alloyteam.com/2016/12/learn-rxjs/)
+* [Javascript 高性能动画与页面渲染](https://www.infoq.cn/article/javascript-high-performance-animation-and-page-rendering)
+
 
 ### 认知类
 
